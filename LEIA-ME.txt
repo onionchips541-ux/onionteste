@@ -1,0 +1,5 @@
+1) PLANILHA + SCRIPT: veja apps-script/Code.gs (passo a passo na conversa).
+2) Cole a URL do Apps Script em API e a senha em CHAVE, no topo do bloco
+   "Planilha (Drive) + bloqueio remoto" de src/index.html (a CHAVE deve ser igual a do Code.gs).
+3) Envie ao GitHub (src/index.html e .github) e baixe o APK em Actions > Artifacts.
+Bloqueio: aba "Config" da planilha, B1 = SIM (liberado) ou NAO (bloqueado), B2 = mensagem.
